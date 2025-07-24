@@ -16,12 +16,14 @@ const TaskForm = (props) => {
 		};
 		props.onSubmit(newTask);
 	};
+
 	return (
 		<form className='task-form' onSubmit={handleSubmit}>
 			<input
 				type='text'
 				placeholder='Add a new task'
 				className='task-input'
+				value={input}
 				onChange={handleChange}
 			/>
 			<button className='submit-button'>Add Task</button>
