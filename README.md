@@ -1,8 +1,9 @@
 # ✅ Mini Task List – React.js
 
 A simple and responsive task list app built with React. Add, complete, delete and filter your tasks with LocalStorage persistence.
-
-![screenshot](./screenshot.png)
+![mini-task-list-LocalStorageWorkedWell](https://github.com/user-attachments/assets/f1fe553e-d143-4840-8e3a-51174ced2b95)
+![mini-task-list-working](https://github.com/user-attachments/assets/65305731-8b4d-4ab7-b49c-97a6330c851f)
+![mini-task-list](https://github.com/user-attachments/assets/44920a9a-0598-4075-b8d0-0710c61d0d4e)
 
 ---
 
