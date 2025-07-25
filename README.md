@@ -26,7 +26,9 @@ A simple and responsive task list app built with React. Add, complete, delete an
 ## 📷 Screenshots
 ![mini-task-list-LocalStorageWorkedWell](https://github.com/user-attachments/assets/772aaa2e-582c-4ba3-8267-f636db7d063e)
 ![mini-task-list-working](https://github.com/user-attachments/assets/c704f74c-3d36-4d31-aa60-736861aba795)
-![mini-task-list](https://github.com/user-attachments/assets/1277b86d-4b7a-43a1-8a03-87ed546f2dab)
+![mini-task-list-completed-task png](https://github.com/user-attachments/assets/e86e11b8-1e92-4ed4-a6c6-90fa473a1da5)
+![mini-task-list-delete-completed-task png](https://github.com/user-attachments/assets/6d8c21ba-7fb2-419b-b8cc-5627085998e8)
+
 
 
 
