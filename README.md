@@ -1,33 +1,49 @@
-# 👋 Hi, I'm Ramsés Zurbarán Valdés
+# ✅ Mini Task List – React.js
 
-🎯 **Frontend Developer (React.js)** | 💻 Self-taught | 🌎 Based in Cuba  
-📩 zurbaranramses@gmail.com | 🧠 Passionate about clean UI & reusable components
+A simple and responsive task list app built with React. Add, complete, delete and filter your tasks with LocalStorage persistence.
 
----
-
-## 🛠 Tech Stack
-
-- **Frontend**: React.js, JavaScript (ES6+), HTML, CSS, Tailwind
-- **Tools**: Git, GitHub, VS Code
-- **Other**: Responsive Design, Component-based Architecture
+![screenshot](./screenshot.png)
 
 ---
 
-## 🚀 Projects (Coming soon)
+## 🚀 Features
 
-- 📝 Mini Task List – React + LocalStorage
-- 🔢 Web Calculator – Vanilla JS
-- 🧩 React Hooks Practice – Small reusable components
-
----
-
-## 📚 Learning Journey
-
-Studying React and frontend development through online courses, projects, and YouTube. Originally trained as an **Electrical Engineer**, now transitioning into the tech industry with dedication and curiosity.
+- 📝 Add new tasks
+- ✅ Mark tasks as completed
+- 🗑 Delete tasks
+- 🔍 Filter by completed / active / all
+- 💾 Stored in LocalStorage
 
 ---
 
-## 🌐 Connect with me
+## 🛠 Built With
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ramses-zurbaran-b3a7a3297)
-- 📄 [My CV in Notion](https://www.notion.so/Rams-s-Zurbar-n-Vald-s-Frontend-Developer-React-js-2399ead341ea80798745eca5f484f38e)
+- **React.js**
+- JavaScript (ES6+)
+- CSS / Flexbox
+- LocalStorage API
+
+---
+
+## 📷 Screenshots
+
+You can include a screenshot of the app running in your browser. Example:
+
+![Task list demo](./demo.gif)
+
+---
+
+## 📦 How to Run Locally
+
+```bash
+# Clone the repo
+git clone https://github.com/faraon2000/mini-task-list.git
+
+# Navigate to project directory
+cd mini-task-list
+
+# Install dependencies
+npm install
+
+# Start the app
+npm start
